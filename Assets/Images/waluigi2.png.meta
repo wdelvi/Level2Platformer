@@ -1,0 +1,2221 @@
+fileFormatVersion: 2
+guid: f62bdb8ae4d3c45ce8e79d3951198f44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1115698874613049613
+    second: waluigi2_0
+  - first:
+      213: 1371438701689596956
+    second: waluigi2_1
+  - first:
+      213: -2535838057231536065
+    second: waluigi2_2
+  - first:
+      213: 5511490334584958989
+    second: waluigi2_3
+  - first:
+      213: -8774049980740952907
+    second: waluigi2_4
+  - first:
+      213: 2839322548924380462
+    second: waluigi2_5
+  - first:
+      213: 8074764588685811445
+    second: waluigi2_6
+  - first:
+      213: -442158270654832079
+    second: waluigi2_7
+  - first:
+      213: -701171489023114568
+    second: waluigi2_8
+  - first:
+      213: -4121017670808263326
+    second: waluigi2_9
+  - first:
+      213: 7860003043682055302
+    second: waluigi2_10
+  - first:
+      213: -8508159705381862638
+    second: waluigi2_11
+  - first:
+      213: -6387457401287747862
+    second: waluigi2_12
+  - first:
+      213: -8700602012847954571
+    second: waluigi2_13
+  - first:
+      213: -7506152095916170858
+    second: waluigi2_14
+  - first:
+      213: -348504815593602908
+    second: waluigi2_15
+  - first:
+      213: -3555996045640893250
+    second: waluigi2_16
+  - first:
+      213: 5315323543852699447
+    second: waluigi2_17
+  - first:
+      213: 8807782876752317045
+    second: waluigi2_18
+  - first:
+      213: 7234917226338837668
+    second: waluigi2_19
+  - first:
+      213: 4494681689612974685
+    second: waluigi2_20
+  - first:
+      213: 6900909169654709653
+    second: waluigi2_21
+  - first:
+      213: -379257619950277897
+    second: waluigi2_22
+  - first:
+      213: 588812504802169723
+    second: waluigi2_23
+  - first:
+      213: 8867432077637861287
+    second: waluigi2_24
+  - first:
+      213: 4986687738624341787
+    second: waluigi2_25
+  - first:
+      213: 1558932612648040852
+    second: waluigi2_26
+  - first:
+      213: -2541133724423518848
+    second: waluigi2_27
+  - first:
+      213: 3329524429380178189
+    second: waluigi2_28
+  - first:
+      213: 2735221646318147376
+    second: waluigi2_29
+  - first:
+      213: 3833636221306061924
+    second: waluigi2_30
+  - first:
+      213: 8051826152427867967
+    second: waluigi2_31
+  - first:
+      213: 1026711475011541329
+    second: waluigi2_32
+  - first:
+      213: -8650361381810514198
+    second: waluigi2_33
+  - first:
+      213: -7738366309960572704
+    second: waluigi2_34
+  - first:
+      213: 2723520280882511192
+    second: waluigi2_35
+  - first:
+      213: -2950818064375276542
+    second: waluigi2_36
+  - first:
+      213: -9111893691085053876
+    second: waluigi2_37
+  - first:
+      213: 8761836550376620580
+    second: waluigi2_38
+  - first:
+      213: 5497110950842064174
+    second: waluigi2_39
+  - first:
+      213: 3163544752547544178
+    second: waluigi2_40
+  - first:
+      213: 2424469607049920011
+    second: waluigi2_41
+  - first:
+      213: 6468191437106899754
+    second: waluigi2_42
+  - first:
+      213: -85904356814532752
+    second: waluigi2_43
+  - first:
+      213: -4397034488407621791
+    second: waluigi2_44
+  - first:
+      213: -4334496745560432981
+    second: waluigi2_45
+  - first:
+      213: -1582514247807155924
+    second: waluigi2_46
+  - first:
+      213: -1505000986914666145
+    second: waluigi2_47
+  - first:
+      213: 2652724720172606436
+    second: waluigi2_48
+  - first:
+      213: -7635052024906663657
+    second: waluigi2_49
+  - first:
+      213: -937388304515981585
+    second: waluigi2_50
+  - first:
+      213: -3397901144485639853
+    second: waluigi2_51
+  - first:
+      213: 5994031112502277075
+    second: waluigi2_52
+  - first:
+      213: 9217693617585723393
+    second: waluigi2_53
+  - first:
+      213: -4635663058415151165
+    second: waluigi2_54
+  - first:
+      213: -7889944188042641244
+    second: waluigi2_55
+  - first:
+      213: -5835053674351990316
+    second: waluigi2_56
+  - first:
+      213: 4553872161339427425
+    second: waluigi2_57
+  - first:
+      213: 6806241625421166460
+    second: waluigi2_58
+  - first:
+      213: -1823912879600229932
+    second: waluigi2_59
+  - first:
+      213: 600130884980398192
+    second: waluigi2_60
+  - first:
+      213: -8072774281830532360
+    second: waluigi2_61
+  - first:
+      213: -9045704899245779857
+    second: waluigi2_62
+  - first:
+      213: 6539197069066315440
+    second: waluigi2_63
+  - first:
+      213: -3886851480858117983
+    second: waluigi2_64
+  - first:
+      213: -3105731924095758843
+    second: waluigi2_65
+  - first:
+      213: 347817610849505635
+    second: waluigi2_66
+  - first:
+      213: 8144367836696394414
+    second: waluigi2_67
+  - first:
+      213: -7615444609092960990
+    second: waluigi2_68
+  - first:
+      213: -4505192112500056172
+    second: waluigi2_69
+  - first:
+      213: 417309425525484924
+    second: waluigi2_70
+  - first:
+      213: -6891951891205664859
+    second: waluigi2_71
+  - first:
+      213: -3619262176470094681
+    second: waluigi2_72
+  - first:
+      213: -6789421043434710151
+    second: waluigi2_73
+  - first:
+      213: -7625388295842804948
+    second: waluigi2_74
+  - first:
+      213: -2801905073872391919
+    second: waluigi2_75
+  - first:
+      213: -3887804712474383825
+    second: waluigi2_76
+  - first:
+      213: -2347550122039446790
+    second: waluigi2_77
+  - first:
+      213: 1916316610354844235
+    second: waluigi2_78
+  - first:
+      213: -5394015172867947430
+    second: waluigi2_79
+  - first:
+      213: 3477735192115890641
+    second: waluigi2_80
+  - first:
+      213: -8371799935880181484
+    second: waluigi2_81
+  - first:
+      213: 8607898923350771827
+    second: waluigi2_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waluigi2_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 399
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138f11ab3a67c46309ae573f7d0dd293
+      internalID: -1115698874613049613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 399
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a65c4640f79947e0801e91932010b0e
+      internalID: 1371438701689596956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 395
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b73db76ca0643e79f588011bc688d6
+      internalID: -2535838057231536065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 395
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5981e55992495448dbb277c04970336b
+      internalID: 5511490334584958989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 395
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1b59e550ec4ef0a0a288b30d17681
+      internalID: -8774049980740952907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 395
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469a9ccf6e723404787482ad72c6ddd0
+      internalID: 2839322548924380462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 395
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c444ed729a72441f90e461d6d6d6156
+      internalID: 8074764588685811445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 395
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47785b21777a144a9bbf60f9af4c4c2c
+      internalID: -442158270654832079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 395
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfe13f10d38f495b872080f786fa3b8
+      internalID: -701171489023114568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 395
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fab66d377b349d28da09cdd12b49ff
+      internalID: -4121017670808263326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 329
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1df05942c964795adf4b593f27b11a
+      internalID: 7860003043682055302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 341
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15cb8d74f9bc4ad3a9f91a1b7c800c8
+      internalID: -8508159705381862638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 331
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a2a58a809a34c2fb64765bb7dcbeed
+      internalID: -6387457401287747862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 348
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5456a21a54740484a822985549edf381
+      internalID: -8700602012847954571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 348
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ad197db13224acf9157b095bbecc25
+      internalID: -7506152095916170858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 348
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eb82fcbb35a47899f98428cbd47e9f
+      internalID: -348504815593602908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 348
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402f6157cd31845e690568bfc8dec80e
+      internalID: -3555996045640893250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 348
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20f6f9320d24fb4a1463cf27f68f75
+      internalID: 5315323543852699447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 348
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d982c32d60f4305b3201f171cfd44e
+      internalID: 8807782876752317045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 348
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46135954a8774007915f1cde13d4958
+      internalID: 7234917226338837668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 348
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c674510046e3437db2d431ab6524382
+      internalID: 4494681689612974685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 276
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4588e35104a434d8e289cac666540a
+      internalID: 6900909169654709653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 277
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ad93cbdafd4b72a54ba1d15cf8320
+      internalID: -379257619950277897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 296
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cefeabb655f4e40a6a2f20ae1ef8e1
+      internalID: 588812504802169723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 296
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671e9355b6685475189840183c24f53e
+      internalID: 8867432077637861287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 296
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aef9693d64644e5cbd342f88602ab3f
+      internalID: 4986687738624341787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_26
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 296
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f46d66de8d0c4aafae5f582af35c516
+      internalID: 1558932612648040852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 296
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.51609355, y: 0.49651864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86880da2d888446fbd2adf88af294c4
+      internalID: -2541133724423518848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 296
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d42b420835945109bbd847538eefb4
+      internalID: 3329524429380178189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_29
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 296
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20d16167230d4082961e593e79bf57b
+      internalID: 2735221646318147376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 296
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ea001246ce54a608061b8149be5a59
+      internalID: 3833636221306061924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 230
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410906af2c2c74b0cbb0ad1f139ae61e
+      internalID: 8051826152427867967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 232
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08825600a614fceb1eb547fcfdb796
+      internalID: 1026711475011541329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11050d257d558468a9af2510c16c81dd
+      internalID: -8650361381810514198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 240
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b91a5bb1f9854c589cbb69c47a3dbe4
+      internalID: -7738366309960572704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 239
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a694a40c9b8243e2957734aeb85826a
+      internalID: 2723520280882511192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 239
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0170e3777d6a46cbac5ea3799ebb743
+      internalID: -2950818064375276542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 238
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88fac0e6f79b4a388eec8497b2ed260
+      internalID: -9111893691085053876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_38
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 241
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc851cad7ef8843698636df0efa7adc2
+      internalID: 8761836550376620580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_39
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 241
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a063bb9de7764a5ba1502d32414fe88
+      internalID: 5497110950842064174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 241
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a274e8c9321124b3ca68e5a294921255
+      internalID: 3163544752547544178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 241
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64628622df68a4794939f7b5d19be542
+      internalID: 2424469607049920011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 185
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f52f1185e746d28afe10d02b25ce4
+      internalID: 6468191437106899754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 184
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bc5b62ee57846d2b03a5dcae7c76b9
+      internalID: -85904356814532752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 187
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed03b10b2f2c4be8bda44bca24d64fd
+      internalID: -4397034488407621791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 187
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc516c27a4064cb183ce3ac5a6b7f4c
+      internalID: -4334496745560432981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 187
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daba75180e9094e15a54c324ac1157a7
+      internalID: -1582514247807155924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_47
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 187
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a21003bee654bdd982750e210a8a8c
+      internalID: -1505000986914666145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 187
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111a7cfd559f84feb8f2657b1652b367
+      internalID: 2652724720172606436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 187
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf0193274c65458c88801ee1a23ea62
+      internalID: -7635052024906663657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_50
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 187
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba9ffb4e316479ebeda3e14a876b41
+      internalID: -937388304515981585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_51
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 187
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc0214b1a934f98a6ed6882578351c
+      internalID: -3397901144485639853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaf43f7834e947b4ad7f6a4f24c9e8a
+      internalID: 5994031112502277075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 135
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b06d892baf14d12b874d21f133beca
+      internalID: 9217693617585723393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 136
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9edd3bbf8f3f4ffab908b82f67ccc73
+      internalID: -4635663058415151165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 135
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eb5e894c5a547009235be4d53a841f
+      internalID: -7889944188042641244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_56
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 135
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529af6bd41014f0b86a72e0027aa1f1
+      internalID: -5835053674351990316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_57
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 135
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5210fe6842afc42119c004555663e20f
+      internalID: 4553872161339427425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_58
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 132
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836332075fc6a47ec959f1a7204b2caf
+      internalID: 6806241625421166460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 132
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e70882e0e244009a9ef3b8e8716f1b
+      internalID: -1823912879600229932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_60
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 103
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac3c75f172f9439bb964c7e12110f83
+      internalID: 600130884980398192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 103
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e935186281b54b7c8e9f80019ef466a
+      internalID: -8072774281830532360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_62
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 103
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbbaccdf86e04f54887dbf2ea557a5f
+      internalID: -9045704899245779857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_63
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 102
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3e806a983824790a24e7f250d84966
+      internalID: 6539197069066315440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_64
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 103
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641701dcb65de4010a2f6f3bb909b090
+      internalID: -3886851480858117983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 103
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a792008232b462f9f4b6c8caff1669
+      internalID: -3105731924095758843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 52
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b815db66a994e76a400f3ded76d561
+      internalID: 347817610849505635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_67
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 52
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfc646368c374a63a58ec742c0657db
+      internalID: 8144367836696394414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 52
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fbf7698234c47edb9f3c2a95fed52a
+      internalID: -7615444609092960990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 52
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5099540bb5bfa4681981614832d8aea2
+      internalID: -4505192112500056172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_70
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 55
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14975b5f1b85c4159858f5a2a46b3798
+      internalID: 417309425525484924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 55
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df0c5b78346e40d89104ac43f086561
+      internalID: -6891951891205664859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 55
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a796890d802343a8bf5f5553d0f8fd0
+      internalID: -3619262176470094681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_73
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 55
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe54951b3156c4b64be8f1a2005a57ef
+      internalID: -6789421043434710151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_74
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fbc6f2b3f664ff38ee390f8bd3f5b3
+      internalID: -7625388295842804948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_75
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 9
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e816b73d9d4a1a8aeec4690180d25
+      internalID: -2801905073872391919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_76
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 9
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd4d6a88c7744c98528c7b8ee9ebdf
+      internalID: -3887804712474383825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_77
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411930ee9bb594c8c8b1f375b8d2b9d6
+      internalID: -2347550122039446790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bf83ebffc9f40b19019a2739f57378
+      internalID: 1916316610354844235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_79
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 6
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c83448b260f14de1a516e8bbc5fd74c
+      internalID: -5394015172867947430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_80
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 6
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26adcbdc4eac044d58a0fee870898df4
+      internalID: 3477735192115890641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_81
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 6
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a25c3b76ab344809294e2f56874613
+      internalID: -8371799935880181484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waluigi2_82
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b170b3bade415eac29f4d9a5d00b6
+      internalID: 8607898923350771827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c05fc475b4c047eeaff0358d45a4757
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      waluigi2_9: -4121017670808263326
+      waluigi2_8: -701171489023114568
+      waluigi2_7: -442158270654832079
+      waluigi2_51: -3397901144485639853
+      waluigi2_69: -4505192112500056172
+      waluigi2_43: -85904356814532752
+      waluigi2_59: -1823912879600229932
+      waluigi2_29: 2735221646318147376
+      waluigi2_23: 588812504802169723
+      waluigi2_2: -2535838057231536065
+      waluigi2_14: -7506152095916170858
+      waluigi2_64: -3886851480858117983
+      waluigi2_52: 5994031112502277075
+      waluigi2_67: 8144367836696394414
+      waluigi2_61: -8072774281830532360
+      waluigi2_62: -9045704899245779857
+      waluigi2_5: 2839322548924380462
+      waluigi2_26: 1558932612648040852
+      waluigi2_57: 4553872161339427425
+      waluigi2_10: 7860003043682055302
+      waluigi2_21: 6900909169654709653
+      waluigi2_49: -7635052024906663657
+      waluigi2_81: -8371799935880181484
+      waluigi2_68: -7615444609092960990
+      waluigi2_17: 5315323543852699447
+      waluigi2_44: -4397034488407621791
+      waluigi2_47: -1505000986914666145
+      waluigi2_12: -6387457401287747862
+      waluigi2_37: -9111893691085053876
+      waluigi2_48: 2652724720172606436
+      waluigi2_72: -3619262176470094681
+      waluigi2_65: -3105731924095758843
+      waluigi2_78: 1916316610354844235
+      waluigi2_75: -2801905073872391919
+      waluigi2_6: 8074764588685811445
+      waluigi2_36: -2950818064375276542
+      waluigi2_58: 6806241625421166460
+      waluigi2_55: -7889944188042641244
+      waluigi2_82: 8607898923350771827
+      waluigi2_76: -3887804712474383825
+      waluigi2_54: -4635663058415151165
+      waluigi2_63: 6539197069066315440
+      waluigi2_40: 3163544752547544178
+      waluigi2_34: -7738366309960572704
+      waluigi2_39: 5497110950842064174
+      waluigi2_71: -6891951891205664859
+      waluigi2_50: -937388304515981585
+      waluigi2_13: -8700602012847954571
+      waluigi2_46: -1582514247807155924
+      waluigi2_3: 5511490334584958989
+      waluigi2_11: -8508159705381862638
+      waluigi2_56: -5835053674351990316
+      waluigi2_22: -379257619950277897
+      waluigi2_41: 2424469607049920011
+      waluigi2_27: -2541133724423518848
+      waluigi2_15: -348504815593602908
+      waluigi2_31: 8051826152427867967
+      waluigi2_35: 2723520280882511192
+      waluigi2_53: 9217693617585723393
+      waluigi2_66: 347817610849505635
+      waluigi2_4: -8774049980740952907
+      waluigi2_20: 4494681689612974685
+      waluigi2_80: 3477735192115890641
+      waluigi2_79: -5394015172867947430
+      waluigi2_16: -3555996045640893250
+      waluigi2_1: 1371438701689596956
+      waluigi2_25: 4986687738624341787
+      waluigi2_38: 8761836550376620580
+      waluigi2_0: -1115698874613049613
+      waluigi2_74: -7625388295842804948
+      waluigi2_32: 1026711475011541329
+      waluigi2_77: -2347550122039446790
+      waluigi2_19: 7234917226338837668
+      waluigi2_24: 8867432077637861287
+      waluigi2_42: 6468191437106899754
+      waluigi2_18: 8807782876752317045
+      waluigi2_28: 3329524429380178189
+      waluigi2_30: 3833636221306061924
+      waluigi2_70: 417309425525484924
+      waluigi2_60: 600130884980398192
+      waluigi2_73: -6789421043434710151
+      waluigi2_33: -8650361381810514198
+      waluigi2_45: -4334496745560432981
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

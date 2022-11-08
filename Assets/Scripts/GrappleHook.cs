@@ -6,6 +6,7 @@ public class GrappleHook : MonoBehaviour
 {
     public float maxGrappleDistance = 10f;
     public LayerMask grappleMask;
+    public AudioClip jumpSound;
 
     private Vector3 targetPosition;
     private DistanceJoint2D distanceJoint;
@@ -78,6 +79,11 @@ public class GrappleHook : MonoBehaviour
             Vector3 toPosition = raycastHit.point;
             toPosition.z = transform.position.z + 1f;
             lineRenderer.SetPosition(1, toPosition);
+
+            if (GetComponent<AudioSource>() != null && jumpSound != null)
+            {
+                GetComponent<AudioSource>().PlayOneShot(jumpSound);
+            }
         }
     }
 

@@ -8,6 +8,8 @@ public class Jumper : MonoBehaviour
 
     public float jumpImpulseModifier = 1f;
 
+    public AudioClip jumpSound;
+
     private bool isOnGround;
 
     private Rigidbody2D myRigidbody;
@@ -24,6 +26,11 @@ public class Jumper : MonoBehaviour
         {
             myRigidbody.velocity =
                 new Vector2(myRigidbody.velocity.x, jumpImpulse * jumpImpulseModifier);
+
+            if( GetComponent<AudioSource>() != null && jumpSound != null)
+            {
+                GetComponent<AudioSource>().PlayOneShot(jumpSound);
+            }
         }
     }
 

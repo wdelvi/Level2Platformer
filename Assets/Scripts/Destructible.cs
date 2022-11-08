@@ -5,6 +5,7 @@ using UnityEngine;
 public class Destructible : MonoBehaviour
 {
     public int maximumHitPoints = 3;
+    public AudioClip soundOnHit;
 
     private int hitPoints;
 
@@ -17,6 +18,11 @@ public class Destructible : MonoBehaviour
     public void TakeDamage( int damageAmount )
     {
         ModifyHitPoints(-damageAmount);
+
+        if(soundOnHit != null && GetComponent<AudioSource>())
+        {
+            GetComponent<AudioSource>().PlayOneShot(soundOnHit);
+        }
     }
 
     public void Heal( int healAmount )

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public float airControl = 0.5f;
     private Mover mover;
     private Jumper jumper;
     private Animator animator;
@@ -19,7 +20,7 @@ public class PlayerController : MonoBehaviour
 
         if (projectileShooter != null)
         {
-            projectileShooter.SetDirection(new Vector2(-1, 0));
+            projectileShooter.SetDirection(new Vector2(1, 0));
         }
     }
 
@@ -30,10 +31,12 @@ public class PlayerController : MonoBehaviour
         animator.SetBool("IsOnGround", jumper.GetIsOnGround());
         animator.SetFloat("YVelocity", gameObject.GetComponent<Rigidbody2D>().velocity.y);
 
+        float airControlModifier = jumper.GetIsOnGround() ? 1f : airControl;
+
         //Right
         if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
         {
-            mover.AccelerateInDirection(new Vector2(1f, 0f));
+            mover.AccelerateInDirection(new Vector2(airControlModifier, 0f));
             animator.SetBool("Walking", true);
             transform.rotation = Quaternion.Euler(transform.rotation.x, 0f, transform.rotation.z);
 
@@ -46,7 +49,7 @@ public class PlayerController : MonoBehaviour
         //Left
         if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
         {
-            mover.AccelerateInDirection(new Vector2(-1f, 0f));
+            mover.AccelerateInDirection(new Vector2(-airControlModifier, 0f));
             animator.SetBool("Walking", true);
             transform.rotation = Quaternion.Euler(transform.rotation.x, 180f, transform.rotation.z);
 

@@ -11,7 +11,7 @@ public class FallOnTouch : MonoBehaviour
 
     public void OnCollisionEnter2D(Collision2D collision)
     {
-        if( collision.collider.gameObject.tag != "Player" )
+        if( collision.gameObject.GetComponent<PlayerController>() == null )
         {
             return;
         }
@@ -32,7 +32,7 @@ public class FallOnTouch : MonoBehaviour
 
             if( dropTimer > timeToDrop )
             {
-                GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
+                Destroy(gameObject);
             }
         }
     }

@@ -7,14 +7,20 @@ public class PlayerController : MonoBehaviour
     private Mover mover;
     private Jumper jumper;
     private Animator animator;
-    private SpriteRenderer spriteRenderer;
+    private ProjectileShooter projectileShooter;
 
     void Start()
     {
         mover = gameObject.GetComponent<Mover>();
         jumper = gameObject.GetComponent<Jumper>();
         animator = gameObject.GetComponent<Animator>();
-        spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
+
+        projectileShooter = GetComponent<ProjectileShooter>();
+
+        if (projectileShooter != null)
+        {
+            projectileShooter.SetDirection(new Vector2(-1, 0));
+        }
     }
 
     // Update is called once per frame
@@ -29,7 +35,12 @@ public class PlayerController : MonoBehaviour
         {
             mover.AccelerateInDirection(new Vector2(1f, 0f));
             animator.SetBool("Walking", true);
-            spriteRenderer.flipX = false;
+            transform.rotation = Quaternion.Euler(transform.rotation.x, 0f, transform.rotation.z);
+
+            if (projectileShooter != null)
+            {
+                projectileShooter.SetDirection(new Vector2(1f, 0.1f));
+            }
         }
 
         //Left
@@ -37,11 +48,16 @@ public class PlayerController : MonoBehaviour
         {
             mover.AccelerateInDirection(new Vector2(-1f, 0f));
             animator.SetBool("Walking", true);
-            spriteRenderer.flipX = true;
+            transform.rotation = Quaternion.Euler(transform.rotation.x, 180f, transform.rotation.z);
+
+            if (projectileShooter != null)
+            {
+                projectileShooter.SetDirection(new Vector2(-1f, 0.1f));
+            }
         }
 
         //Jump
-        if( Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W) )
+        if ( Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W) )
         {
             jumper.Jump();
         }

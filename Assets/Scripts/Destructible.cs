@@ -5,6 +5,7 @@ using UnityEngine;
 public class Destructible : MonoBehaviour
 {
     public int maximumHitPoints = 3;
+    public int faction = 1;
     public AudioClip soundOnHit;
 
     private int hitPoints;

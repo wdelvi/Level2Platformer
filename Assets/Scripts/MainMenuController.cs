@@ -30,7 +30,8 @@ public class MainMenuController : MonoBehaviour
     // Update is called once per frame
     public void ResetSave()
     {
-        highestLevelUnlocked = startingLevelUnlocked;
+        PlayerPrefs.DeleteAll();
+
         PlayerPrefs.SetInt(saveFileName, highestLevelUnlocked);
         PlayerPrefs.Save();
 

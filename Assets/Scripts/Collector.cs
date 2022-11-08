@@ -21,7 +21,7 @@ public class Collector : MonoBehaviour
 
             if( jumper )
             {
-                jumper.StartJumpBonus(2f, 5f );
+                jumper.StartJumpBonus(2f, 5f);
             }
         }
     }

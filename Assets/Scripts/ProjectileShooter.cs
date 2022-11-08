@@ -4,16 +4,28 @@ using UnityEngine;
 
 public class ProjectileShooter : MonoBehaviour
 {
+    public int startingAmmo = 10;
     public GameObject projectilePrefab;
 
     [Tooltip("A child object placed where the projectile will spawn from")]
     public Transform spawnPoint;
 
     private Vector3 direction;
+    private int currentAmmo;
 
     public void SetDirection(Vector3 newDirection)
     {
         direction = newDirection;
+    }
+
+    public void Start()
+    {
+        currentAmmo = startingAmmo;
+
+        if (UIController.Instance)
+        {
+            UIController.Instance.SetProjectileCount(currentAmmo);
+        }
     }
 
     public void Update()
@@ -26,19 +38,34 @@ public class ProjectileShooter : MonoBehaviour
 
     private void Fire()
     {
-        GameObject newProjectile = Instantiate(projectilePrefab) as GameObject;
-
-        newProjectile.transform.position = spawnPoint.position;
-
-        ProjectileController newProjectileController = newProjectile.GetComponent<ProjectileController>();
-
-        if(newProjectileController != null)
+        if (currentAmmo > 0 || startingAmmo < 0)
         {
-            newProjectileController.Setup(direction);
+            ModifyAmmoCount(-1);
+
+            GameObject newProjectile = Instantiate(projectilePrefab) as GameObject;
+
+            newProjectile.transform.position = spawnPoint.position;
+
+            ProjectileController newProjectileController = newProjectile.GetComponent<ProjectileController>();
+
+            if (newProjectileController != null)
+            {
+                newProjectileController.Setup(direction);
+            }
+            else
+            {
+                Debug.LogWarning("Projectile is missing a projectile controller!");
+            }
         }
-        else
+    }
+
+    public void ModifyAmmoCount( int ammoChange )
+    {
+        currentAmmo += ammoChange;
+
+        if( UIController.Instance )
         {
-            Debug.LogWarning("Projectile is missing a projectile controller!");
+            UIController.Instance.SetProjectileCount(currentAmmo);
         }
     }
 }

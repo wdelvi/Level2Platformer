@@ -5,6 +5,7 @@ using UnityEngine;
 public class Destructor : MonoBehaviour
 {
     public int damage = 1;
+    public int faction = 1;
     public float knockbackForce = 0f;
 
     public void OnCollisionEnter2D(Collision2D collision)
@@ -12,7 +13,7 @@ public class Destructor : MonoBehaviour
         Destructible destrucible =
             collision.gameObject.GetComponent<Destructible>();
 
-        if( destrucible )
+        if( destrucible && destrucible.faction != faction )
         {
             destrucible.TakeDamage(damage);
 

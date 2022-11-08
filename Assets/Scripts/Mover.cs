@@ -8,6 +8,8 @@ public class Mover : MonoBehaviour
 
     public float maximumSpeed = 10f;
 
+    public float cutoffSpeed = 0.2f;
+
     private Rigidbody2D myRigidbody;
 
     public void Start()

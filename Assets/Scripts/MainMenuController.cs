@@ -32,7 +32,9 @@ public class MainMenuController : MonoBehaviour
     {
         PlayerPrefs.DeleteAll();
 
-        PlayerPrefs.SetInt(saveFileName, highestLevelUnlocked);
+        highestLevelUnlocked = startingLevelUnlocked;
+
+        PlayerPrefs.SetInt(saveFileName, startingLevelUnlocked);
         PlayerPrefs.Save();
 
         ResetView();

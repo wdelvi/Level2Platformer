@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//This script NEEDS a mover and a jumper to work
+//This script NEEDS a mover and a jumper to work. This will automatically add them if there isn't one of each
 [RequireComponent(typeof(Mover))]
 [RequireComponent(typeof(Jumper))]
 
